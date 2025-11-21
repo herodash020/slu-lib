@@ -10741,7 +10741,7 @@
       "name": "ResourceKind",
       "isDefault": false,
       "location": {
-        "filename": "file:///C:/Users/dlmqc/source/repos/seelen/slu-lib/src/types/ResourceKind.ts",
+        "filename": "file:///C:/Users/dlmqc/source/repos/seele/slu-lib/src/types/ResourceKind.ts",
         "line": 3,
         "col": 0,
         "byteIndex": 110
